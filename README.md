@@ -1,6 +1,6 @@
 ## MY FISRT MODERATION BOT MADE USING DISCORD.JS 
-## Made by tag:- cw Khan#6496
-Id 682981714523586606
+## Made by tag:- - SΛКSHЏΛM ⸸#1111
+Id 801008042740809738
 ## Categories 📑
 
 
@@ -24,7 +24,7 @@ A FUN AND MODERATION BOT WITH 110+ COMMNDS
 IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁
 
 
-**[SUPPORT SERVER](https://dsc.gg/kmdevs)**||
+**[SUPPORT SERVER](https://discord.gg/Jqg2gzS7Dh)**||
 
 **[INVITE BOT](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot)**
 
@@ -37,7 +37,7 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁
 
 ### Bot support server :
 
-<a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
+<a href="https://discord.gg/Jqg2gzS7Dh"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
 
 <br><br>
 
@@ -59,7 +59,7 @@ Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/st
 ### If u got ajy error join discord server
 ### If you want working version join our discord server ds.gg/cwkham
 ## 💨 Run the projects
- on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Khanmanan/automod-bot)
+ on [Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Khanmanan/automod-bot)
 
 ### Frok Latest version on replit [Run on Repl.it](https://replit.com/@Khanmanan/automod-bot-9#README.md)
 
